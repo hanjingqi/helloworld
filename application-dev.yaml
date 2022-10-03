@@ -1,3 +1,6 @@
 spring:
   application:
     name:  cloud-config-center-dev1.2
+    
+config:
+  info:  cloud-config-center-dev1.2
